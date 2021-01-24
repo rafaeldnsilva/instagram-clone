@@ -56,7 +56,7 @@ body {
     height: 3rem;
 }
 
-.profile-photo {
+.foto-perfil {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -64,7 +64,7 @@ body {
     overflow: hidden;
 }
 
-.profile-photo img {
+.foto-perfil img {
     height: 6rem;
 }
 
@@ -88,7 +88,7 @@ body {
     color: #0095f6;
 }
 
-.pegue-app {
+.pegue-o-app {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -137,7 +137,7 @@ body {
         width: 90%;
     }
 
-    .instagram-phone {
+    .instagram-celular {
         display: none;
     }
 
@@ -145,7 +145,7 @@ body {
         width: 100%;
     }
     
-    .group {
+    .instagram-grupo {
         border: 1px solid transparent;
     }
 }
