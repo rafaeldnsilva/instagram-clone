@@ -1,11 +1,3 @@
-* {
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
-    text-decoration: none;
-    font-family: sans-serif;
-    font-size: 14px;
-}
 
 body {
     width: 100%;
@@ -25,14 +17,14 @@ body {
     height: 100vh;
 }
 
-.instagram-phone {
+.instagram-celular {
     display: flex;
     align-items: center;
     justify-content: center;
     width: 50%;
 }
 
-.instagram-phone img {
+.instagram-celular img {
     height: 50rem;
 }
 
@@ -45,7 +37,7 @@ body {
     min-height: 34rem;
 }
 
-.group {
+.instagram-grupo {
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -56,7 +48,7 @@ body {
     border: 1px solid lightgray;
 }
 
-.group:nth-child(1) {
+.instagram-grupo:nth-child(1) {
     min-height: 19rem;
 }
 
@@ -96,7 +88,7 @@ body {
     color: #0095f6;
 }
 
-.get-the-app {
+.pegue-app {
     display: flex;
     flex-direction: column;
     align-items: center;
